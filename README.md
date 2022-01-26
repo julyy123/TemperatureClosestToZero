@@ -1,4 +1,4 @@
-#TEMPERATURE CLOSEST TO ZERO EXERCISE
+# TEMPERATURE CLOSEST TO ZERO EXERCISE
 
 Find the temperature
 In this exercise, you have to analyze records of temperature to find the closest to zero.
